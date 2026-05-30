@@ -372,11 +372,11 @@ HTML_TEMPLATE = '''
 <footer>
     <h3 style="margin-bottom:10px; color:white;">Van Danış Evden Eve Nakliyat</h3>
     <p>📍 Van / Türkiye</p>
-    <p>📞 +90 555 555 55 55</p>
+    <p>📞 +90 539 280 75 02</p>
     <p style="margin-top:15px;">© 2026 Tüm Hakları Saklıdır.</p>
 </footer>
 
-<a class="whatsapp" href="https://wa.me/905555555555" target="_blank">
+<a class="whatsapp" href="https://wa.me/905392807502" target="_blank">
     WhatsApp
 </a>
 
